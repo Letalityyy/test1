@@ -20,8 +20,12 @@ public class Document {
         this.texte += texte;
     }
 
-    public void effecer(){
-        texte = "";
+    public void effecer(String texte){
+        this.texte.replace(this.texte,texte);
+    }
+
+    public void clear(){
+        this.texte = "";
     }
 
     public void remplacer(int debut, int fin, String remplacement) {
