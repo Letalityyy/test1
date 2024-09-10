@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa66720a-5183-446e-8dc7-2059e09e246e" name="Changes" comment="ajout clear">
-      <change afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,20 +31,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/depinfo/editeur-de-texte&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "bugfix",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/depinfo/editeur-de-texte",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -76,7 +76,8 @@
       <updated>1725631057726</updated>
       <workItem from="1725631059499" duration="2092000" />
       <workItem from="1725633544472" duration="1665000" />
-      <workItem from="1725977848713" duration="306000" />
+      <workItem from="1725977848713" duration="1623000" />
+      <workItem from="1725979984470" duration="381000" />
     </task>
     <task id="LOCAL-00001" summary="ajout gitIgnore">
       <option name="closed" value="true" />
@@ -118,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725634941366</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="ajout clear">
+      <option name="closed" value="true" />
+      <created>1725978163217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725978163217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +139,7 @@
     <MESSAGE value="ajout CommandeRemplacer" />
     <MESSAGE value="ajout CommandeMajuscules.java" />
     <MESSAGE value="ajout effacer" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout effacer" />
+    <MESSAGE value="ajout clear" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout clear" />
   </component>
 </project>
