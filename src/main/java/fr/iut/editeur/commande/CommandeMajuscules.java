@@ -32,4 +32,9 @@ public class CommandeMajuscules extends CommandeDocument {
             System.err.println("Les indices sont hors des limites du document.");
         }
     }
+
+    @Override
+    public String getDescriptionCommande() {
+        return "";
+    }
 }
