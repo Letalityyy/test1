@@ -9,6 +9,6 @@ public class CommandeClear extends CommandeDocument {
 
     @Override
     public void executer() {
-        document.clear()
+        document.clear();
     }
 }
