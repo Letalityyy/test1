@@ -37,13 +37,11 @@ public class Document {
     public void majuscules(int debut, int fin) {
         //TO-DO!
     }
-    public void inserer(int debut, String remplacement){
-        String partieGauche = texte.substring(0, debut);
-        String partieDroite = texte.substring(debut);
-        texte= partieGauche + remplacement + partieDroite;
-
+    public void minuscules(int debut, int fin){
+        String partie = texte.substring(debut, fin+1);
+        partie =partie.toLowerCase();
+        remplacer(debut, fin, partie);
     }
-
     @Override
     public String toString() {
         return this.texte;
