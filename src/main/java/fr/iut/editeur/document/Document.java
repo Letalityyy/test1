@@ -29,6 +29,13 @@ public class Document {
 
     }
 
+    public void inserer(int debut, String remplacement){
+        String partieGauche = texte.substring(0, debut);
+        String partieDroite = texte.substring(debut);
+        texte= partieGauche + remplacement + partieDroite;
+
+    }
+
     public void remplacer(int debut, int fin, String remplacement) {
         String partieGauche = texte.substring(0, debut);
         String partieDroite = texte.substring(fin + 1);
