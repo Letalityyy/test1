@@ -19,4 +19,9 @@ public class CommandeRemplacer extends CommandeDocument {
         this.document.remplacer(Integer.parseInt(parameters[1]),Integer.parseInt(parameters[2]),parameters[3]);
         super.executer();
     }
+
+    @Override
+    public String getDescriptionCommande() {
+        return super.getDescriptionCommande();
+    }
 }

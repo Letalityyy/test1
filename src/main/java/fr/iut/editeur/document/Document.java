@@ -38,7 +38,11 @@ public class Document {
     public void majuscules(int debut, int fin) {
         //TO-DO!
     }
-
+    public void minuscules(int debut, int fin){
+        String partie = texte.substring(debut, fin+1);
+        partie =partie.toLowerCase();
+        remplacer(debut, fin, partie);
+    }
     @Override
     public String toString() {
         return this.texte;
