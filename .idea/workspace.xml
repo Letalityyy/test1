@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa66720a-5183-446e-8dc7-2059e09e246e" name="Changes" comment="Closes #2">
+    <list default="true" id="fa66720a-5183-446e-8dc7-2059e09e246e" name="Changes" comment="feature/Inserer">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/document/Document.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/DescriptionCommande" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -84,6 +84,7 @@
       <workItem from="1725977848713" duration="1623000" />
       <workItem from="1725979984470" duration="381000" />
       <workItem from="1726065964673" duration="623000" />
+      <workItem from="1726123405383" duration="21000" />
     </task>
     <task id="LOCAL-00001" summary="ajout gitIgnore">
       <option name="closed" value="true" />
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725978163217</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="feature/Inserer">
+      <option name="closed" value="true" />
+      <created>1726067707020</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726067707020</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +186,7 @@
     <MESSAGE value="ajout CommandeMajuscules.java" />
     <MESSAGE value="ajout effacer" />
     <MESSAGE value="ajout clear" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout clear" />
+    <MESSAGE value="feature/Inserer" />
+    <option name="LAST_COMMIT_MESSAGE" value="feature/Inserer" />
   </component>
 </project>
