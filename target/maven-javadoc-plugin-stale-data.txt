@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'/home/depinfo/editeur-de-texte/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/depinfo/editeur-de-texte/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EditeurDeTexte 0.0.1 API'
+-use
+-version
+-windowtitle
+'EditeurDeTexte 0.0.1 API'
+fr.iut.editeur.commande
+fr.iut.editeur.commande.invoker
+fr.iut.editeur.commande.factory
+fr.iut.editeur.document
+fr.iut.editeur
+/home/depinfo/editeur-de-texte/src/main/java = 1725630923970
+/home/depinfo/editeur-de-texte/target/reports/apidocs/link.svg = 1726125921531
+/home/depinfo/editeur-de-texte/target/reports/apidocs/script.js = 1726125921530
+/home/depinfo/editeur-de-texte/target/reports/apidocs/overview-tree.html = 1726125921482
+/home/depinfo/editeur-de-texte/target/reports/apidocs/allclasses-index.html = 1726125921502
+/home/depinfo/editeur-de-texte/target/reports/apidocs/element-list = 1726125921404
+/home/depinfo/editeur-de-texte/target/reports/apidocs/type-search-index.js = 1726125921507
+/home/depinfo/editeur-de-texte/target/reports/apidocs/index.html = 1726125921485
+/home/depinfo/editeur-de-texte/target/reports/apidocs/search.js = 1726125921532
+/home/depinfo/editeur-de-texte/target/reports/apidocs/copy.svg = 1726125921531
+/home/depinfo/editeur-de-texte/target/reports/apidocs/stylesheet.css = 1726125921530
+/home/depinfo/editeur-de-texte/target/reports/apidocs/search.html = 1726125921523
+/home/depinfo/editeur-de-texte/target/reports/apidocs/allpackages-index.html = 1726125921504
+/home/depinfo/editeur-de-texte/target/reports/apidocs/member-search-index.js = 1726125921507
+/home/depinfo/editeur-de-texte/target/reports/apidocs/index-all.html = 1726125921522
+/home/depinfo/editeur-de-texte/target/reports/apidocs/package-search-index.js = 1726125921506
+/home/depinfo/editeur-de-texte/target/reports/apidocs/search-page.js = 1726125921533
+/home/depinfo/editeur-de-texte/target/reports/apidocs/module-search-index.js = 1726125921506
+/home/depinfo/editeur-de-texte/target/reports/apidocs/overview-summary.html = 1726125921525
+/home/depinfo/editeur-de-texte/target/reports/apidocs/help-doc.html = 1726125921528
+/home/depinfo/editeur-de-texte/target/reports/apidocs/tag-search-index.js = 1726125921507

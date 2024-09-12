@@ -1,0 +1,106 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"fa66720a-5183-446e-8dc7-2059e09e246e\" name=\"Changes\" comment=\"Closes #2\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 6\n}</component>\n  <component name=\"ProjectId\" id=\"2lhSwjWTBwcKH5TpPzmx7D5NcHj\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">{\n  &quot;keyToString&quot;: {\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\n    &quot;git-widget-placeholder&quot;: &quot;devlopment&quot;,\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,\n    &quot;last_opened_file_path&quot;: &quot;/home/depinfo/editeur-de-texte&quot;,\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\n  }\n}</component>\n  <component name=\"RunManager\">\n    <configuration default=\"true\" type=\"JetRunConfigurationType\">\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration default=\"true\" type=\"KotlinStandaloneScriptRunConfigurationType\">\n      <option name=\"filePath\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1\" />\n        <option value=\"bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"fa66720a-5183-446e-8dc7-2059e09e246e\" name=\"Changes\" comment=\"\" />\n      <created>1725631057726</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1725631057726</updated>\n      <workItem from=\"1725631059499\" duration=\"2092000\" />\n      <workItem from=\"1725633544472\" duration=\"1665000\" />\n      <workItem from=\"1725977848713\" duration=\"1623000\" />\n      <workItem from=\"1725979984470\" duration=\"381000\" />\n      <workItem from=\"1726065964673\" duration=\"623000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"ajout gitIgnore\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725631387710</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725631387710</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"ajout README.md\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725631483389</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725631483389</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"ajout CommandeRemplacer\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725632479091</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725632479091</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"ajout CommandeMajuscules.java\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725634675035</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725634675035</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"ajout effacer\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725634941366</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725634941366</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"ajout clear\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725978163217</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725978163217</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"7\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"RECENT_FILTERS\">\n      <map>\n        <entry key=\"Branch\">\n          <value>\n            <list>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"master\" />\n                </option>\n              </RecentGroup>\n              <RecentGroup>\n                <option name=\"FILTER_VALUES\">\n                  <option value=\"HEAD\" />\n                </option>\n              </RecentGroup>\n            </list>\n          </value>\n        </entry>\n      </map>\n    </option>\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"ajout gitIgnore\" />\n    <MESSAGE value=\"ajout README.md\" />\n    <MESSAGE value=\"ajout CommandeRemplacer\" />\n    <MESSAGE value=\"ajout CommandeMajuscules.java\" />\n    <MESSAGE value=\"ajout effacer\" />\n    <MESSAGE value=\"ajout clear\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"ajout clear\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,15 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="fa66720a-5183-446e-8dc7-2059e09e246e" name="Changes" comment="Closes #2">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/Commande.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeAjouter.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeClear.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeDocument.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeMajuscules.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fr/iut/editeur/commande/CommandeRemplacer.java" afterDir="false" />
+-    </list>
++    <list default="true" id="fa66720a-5183-446e-8dc7-2059e09e246e" name="Changes" comment="feature/Description" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -36,20 +28,20 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;devlopment&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+-    &quot;last_opened_file_path&quot;: &quot;/home/depinfo/editeur-de-texte&quot;,
+-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "feature/DescriptionCommande",
++    "kotlin-language-version-configured": "true",
++    "last_opened_file_path": "/home/depinfo/editeur-de-texte",
++    "node.js.detected.package.eslint": "true",
++    "node.js.detected.package.tslint": "true",
++    "node.js.selected.package.eslint": "(autodetect)",
++    "node.js.selected.package.tslint": "(autodetect)",
++    "nodejs_package_manager_path": "npm",
++    "vue.rearranger.settings.migration": "true"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager">
+     <configuration default="true" type="JetRunConfigurationType">
+       <method v="2">
+@@ -83,7 +75,7 @@
+       <workItem from="1725633544472" duration="1665000" />
+       <workItem from="1725977848713" duration="1623000" />
+       <workItem from="1725979984470" duration="381000" />
+-      <workItem from="1726065964673" duration="623000" />
++      <workItem from="1726065964673" duration="1424000" />
+     </task>
+     <task id="LOCAL-00001" summary="ajout gitIgnore">
+       <option name="closed" value="true" />
+@@ -133,7 +125,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1725978163217</updated>
+     </task>
+-    <option name="localTasksCounter" value="7" />
++    <task id="LOCAL-00007" summary="feature/Description">
++      <option name="closed" value="true" />
++      <created>1726066704868</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1726066704868</updated>
++    </task>
++    <task id="LOCAL-00008" summary="feature/Description">
++      <option name="closed" value="true" />
++      <created>1726066723693</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1726066723693</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -177,6 +185,8 @@
+     <MESSAGE value="ajout CommandeMajuscules.java" />
+     <MESSAGE value="ajout effacer" />
+     <MESSAGE value="ajout clear" />
+-    <option name="LAST_COMMIT_MESSAGE" value="ajout clear" />
++    <MESSAGE value="Closes #2" />
++    <MESSAGE value="feature/Description" />
++    <option name="LAST_COMMIT_MESSAGE" value="feature/Description" />
+   </component>
+ </project>
+\ No newline at end of file
