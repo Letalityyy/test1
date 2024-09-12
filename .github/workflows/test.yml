@@ -1,0 +1,13 @@
+#Se déclenche quand on push sur n'importe quelle branche
+name : nom_custom_workflow
+
+on:
+  push:
+    branches:
+      - '*'
+
+jobs:
+  runs-on: ubuntu-latest
+  steps:
+    name: Test1
+    run: javac src/test/java/fr.iut.editeur.document/DocumentTest
